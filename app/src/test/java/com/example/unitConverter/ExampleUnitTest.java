@@ -1,4 +1,4 @@
-package com.example.mycalculator;
+package com.example.unitConverter;
 
 import org.junit.Test;
 
